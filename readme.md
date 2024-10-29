@@ -3,7 +3,10 @@
 <p align="center">
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+•★⃝ FI_+BOT-+MD★⃝•;MULTI-DEVICE+WHATSAPP+BOT;DEVELOPED+BY+DON+TECH INC;RELEASED+DATE+30%2F10%2F2024." alt="Typing SVG" /></a>
- </p>
+
+ <img align="right" alt="DON TECH INC" width="403333333333" src="https://raw.githubusercontent.com/AiDarkEzio/AiDarkEzio/main/img/ezgif.com-gif-maker.gif" alt="aidarkezio" /></p>
+
+</p>
 <p align="center">
 <img src="https://telegra.ph/file/ca3524b5910d72a0844b7.jpg"/> 
 <p align="center"><img src="https://profile-counter.glitch.me/{dontechinc}/count.svg" alt="dontechinc :: Visitor's Count" /></p>
